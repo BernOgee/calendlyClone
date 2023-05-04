@@ -1,0 +1,121 @@
+.nav-img {
+  height: 40px;
+}
+
+.nav-margin {
+  margin-left: 12rem;
+}
+
+/* Page 1 */
+.row-padding {
+  padding: 6% 7%;
+}
+
+.page-1a h1 {
+  font-weight: bold;
+  font-size: 4.5rem;
+}
+
+.blue-span {
+  color: blue;
+}
+
+.page-1a p {
+  line-height: 2rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 2rem 0;
+}
+
+.page-1a button {
+  background-color: #000;
+  color: #fff;
+  padding: 1% 3%;
+  border: 1px solid #000;
+  border-radius: 15px;
+}
+
+/* page 1b */
+.page-1b h1 {
+  color: gray;
+  font-size: 10px;
+}
+
+.page-1b h2 {
+  margin: 2rem 0;
+  font-weight: bold;
+}
+
+.page-1b p {
+  line-height: 2rem;
+}
+
+/* page 1c */
+
+.page-1c h1 {
+  color: gray;
+  font-size: 10px;
+}
+
+.page-1c h2 {
+  margin: 1.5rem 0;
+  font-weight: bold;
+}
+
+.page-1c p {
+  line-height: 2rem;
+}
+
+
+/* page 1d */
+.page-1d {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg");
+}
+
+.page-1d h2 {
+  padding: 5% 2%;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: white;
+  font-size: 2.5rem;
+}
+
+.page-1d button {
+  background-color: #fff;
+  color: #000;
+  padding: 1%;
+  border-radius: 30px;
+  width: 13rem;
+  border-style: none;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+
+
+/* footer */
+select {
+  width: 100%;
+  color: #000;
+  font-weight: bold;
+  padding: 2%;
+}
+
+.footer {
+  /* border: 1px solid black; */
+  padding: 3% 5%;
+}
+
+.footer h4,h1 {
+  font-weight: bold;
+}
+
+
+.footer ul {
+  list-style: none;
+  text-align: left;
+  margin: 0 1rem;
+}
+
+.footer ul li {
+  margin: 1rem 0;
+}
